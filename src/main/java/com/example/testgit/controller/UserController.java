@@ -6,4 +6,7 @@ public class UserController {
     private String getGender(){
         return  gender;
     }
+    private String getAge(){
+        return age;
+    }
 }
